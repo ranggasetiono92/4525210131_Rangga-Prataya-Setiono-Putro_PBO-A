@@ -51,6 +51,8 @@
 ## Screenshot Coding Pegawai.php
 
 <img width="462" height="477" alt="php1" src="https://github.com/user-attachments/assets/8d7d29f2-3be8-4b1a-937b-5940e10c5d05" />
+<img width="439" height="444" alt="php2" src="https://github.com/user-attachments/assets/dbab58f5-3a3e-484f-a5f1-60e16ee98d6e" />
+<img width="449" height="280" alt="php3" src="https://github.com/user-attachments/assets/c82ddb7b-eb15-491c-b752-3b197f12406a" />
 
 
 ## Screenshot Hasil Running PHP
